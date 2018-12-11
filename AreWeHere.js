@@ -9,4 +9,4 @@ function areYouHere(arr1, arr2) {
     return false;
 }
 
-//O(n)
+//O(n^2)
